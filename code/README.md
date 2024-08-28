@@ -1,4 +1,7 @@
 # Bioactivity Prediction App
+This web app has been built using Streamlit and Python. Essentially, this web app will serve as a Bioinformatics tool that will allow users the ability to predict whether a compound of interest has favorable biological activity against the target protein or not.
+
+
 # Reproducing this web app
 To recreate this web app on your own computer, do the following.
 
